@@ -34,7 +34,7 @@ This is an web application where it is possible to register games, separate them
 ```bash
 git clone https://github.com/evelynmesquita/boardcamp-game-rental
 ```
-2. Clone the front-end repository at https://github.com/evelynmesquita/boardcamp-game-rental and follow the instructions to run
+2. Clone the front-end repository at https://github.com/bootcamp-ra/boardcamp-front and follow the instructions to run
 3. Create a Database using the ``dump.sql`` file inside the ``database`` folder by following these steps:
     - 4.1 Open your terminal. **Important: the terminal must be opened in the same path as the ``dump.sql`` file is located.**
     - 4.2 Access PostgreSQL using the command ``sudo su postgres`` and enter your password when prompted.
